@@ -1,0 +1,58 @@
+h1 {
+    font-family: 'Concert One', cursive;
+    text-align: center;
+}
+
+div,
+input {
+     margin: 10px;
+}
+
+#container{
+    margin: auto;
+    width: 50%;
+}
+
+/*form{
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px;
+}*/
+
+
+#gif-view{
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+button{
+    background-color: #71a1c4;
+    border-radius: 8px;
+    font-family: 'Concert One', cursive;
+    font-size: 14px;
+    color: #ffffff;
+    padding: 12px 28px;
+    margin: 10px;
+}
+
+#add-tv{
+    background-color: #71a1c4;
+    border-radius: 8px;
+    font-family: 'Concert One', cursive;
+    font-size: 14px;
+    color: #ffffff;
+    padding: 12px 28px;
+}
+
+label{
+    font-family: 'Concert One', cursive;
+    font-size: 24px;
+}
+
+#gifs-appear-here{
+  width: 1500px;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
